@@ -60,9 +60,9 @@ Full Stack Developer with hands-on experience building complex, scalable applica
 
 ## 📞 &nbsp;Get In Touch
 
-- **LinkedIn:** [Mazen Mohamed](https://www.linkedin.com/in/mazen-mohamed-2b8518405/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B07V4jYdHSjuQJNV9fOV%2FMg%3D%3D)
+- **LinkedIn:** [Mazen Mohamed](linkedin.com/in/mazen-mohamed-2b8518405)
 - **Email:** mazentohameee@gmail.com
-- **GitHub:** [Mazen](https://github.com/mazen42)
+- **GitHub:** [Mazen](github.com/mazen42)
 
 ---
 
