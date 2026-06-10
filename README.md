@@ -1,9 +1,8 @@
 # 👋 &nbsp;Hi there
-Software Engineer at Presmatics 🚀
+Software Engineer
 
 Building production-grade applications with PHP, Laravel, and ASP.NET Core.
 
-**Currently:** Full Stack Developer at Presmatics | Leading Wasalni (Personal Project)  
 **Wasalni:** Smart Delivery Platform - Graduation Project (Launching Soon)  
 **Previous:** Complex E-Commerce Platforms | Real-time Chat Systems (WhatsApp-like) | Payment Integrations
 
@@ -39,12 +38,7 @@ Open to collaboration and mentoring.
 
 ## 📈 &nbsp;About Me
 
-Full Stack Developer with hands-on experience building complex, scalable applications. Specialized in backend architecture and payment systems integration.
-
-**Experience:**
-- Software Engineer at Presmatics
-- Software Development Intern at Flothers
-- Modern Academy Maadi Graduate
+Full Stack Developer with hands-on experience building complex, scalable applications. Specialized in backend architecture and payment systems 
 
 &nbsp;
 
